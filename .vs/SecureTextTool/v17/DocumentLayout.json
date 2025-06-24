@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tinaj\\source\\repos\\SecureTextTool\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{17C1BA23-BAF2-4B51-8CF8-D1FE90C54B85}|SecureTextTool\\SecureTextTool.csproj|c:\\users\\tinaj\\source\\repos\\securetexttool\\securetexttool\\adddialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{17C1BA23-BAF2-4B51-8CF8-D1FE90C54B85}|SecureTextTool\\SecureTextTool.csproj|solutionrelative:securetexttool\\adddialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17C1BA23-BAF2-4B51-8CF8-D1FE90C54B85}|SecureTextTool\\SecureTextTool.csproj|C:\\Users\\tinaj\\source\\repos\\SecureTextTool\\securetexttool\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{17C1BA23-BAF2-4B51-8CF8-D1FE90C54B85}|SecureTextTool\\SecureTextTool.csproj|solutionrelative:securetexttool\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17C1BA23-BAF2-4B51-8CF8-D1FE90C54B85}|SecureTextTool\\SecureTextTool.csproj|c:\\users\\tinaj\\source\\repos\\securetexttool\\securetexttool\\adddialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17C1BA23-BAF2-4B51-8CF8-D1FE90C54B85}|SecureTextTool\\SecureTextTool.csproj|solutionrelative:securetexttool\\adddialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17C1BA23-BAF2-4B51-8CF8-D1FE90C54B85}|SecureTextTool\\SecureTextTool.csproj|c:\\users\\tinaj\\source\\repos\\securetexttool\\securetexttool\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17C1BA23-BAF2-4B51-8CF8-D1FE90C54B85}|SecureTextTool\\SecureTextTool.csproj|solutionrelative:securetexttool\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17C1BA23-BAF2-4B51-8CF8-D1FE90C54B85}|SecureTextTool\\SecureTextTool.csproj|c:\\users\\tinaj\\source\\repos\\securetexttool\\securetexttool\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17C1BA23-BAF2-4B51-8CF8-D1FE90C54B85}|SecureTextTool\\SecureTextTool.csproj|solutionrelative:securetexttool\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddDialog.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tinaj\\source\\repos\\SecureTextTool\\SecureTextTool\\AddDialog.cs",
+              "RelativeDocumentMoniker": "SecureTextTool\\AddDialog.cs",
+              "ToolTip": "C:\\Users\\tinaj\\source\\repos\\SecureTextTool\\SecureTextTool\\AddDialog.cs [Design]*",
+              "RelativeToolTip": "SecureTextTool\\AddDialog.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T23:19:48.355Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tinaj\\source\\repos\\SecureTextTool\\SecureTextTool\\Program.cs",
+              "RelativeDocumentMoniker": "SecureTextTool\\Program.cs",
+              "ToolTip": "C:\\Users\\tinaj\\source\\repos\\SecureTextTool\\SecureTextTool\\Program.cs",
+              "RelativeToolTip": "SecureTextTool\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T06:35:29.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddDialog.cs",
+              "DocumentMoniker": "C:\\Users\\tinaj\\source\\repos\\SecureTextTool\\SecureTextTool\\AddDialog.cs",
+              "RelativeDocumentMoniker": "SecureTextTool\\AddDialog.cs",
+              "ToolTip": "C:\\Users\\tinaj\\source\\repos\\SecureTextTool\\SecureTextTool\\AddDialog.cs*",
+              "RelativeToolTip": "SecureTextTool\\AddDialog.cs*",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAkwBgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T05:33:26.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\tinaj\\source\\repos\\SecureTextTool\\SecureTextTool\\Form1.cs",
+              "RelativeDocumentMoniker": "SecureTextTool\\Form1.cs",
+              "ToolTip": "C:\\Users\\tinaj\\source\\repos\\SecureTextTool\\SecureTextTool\\Form1.cs",
+              "RelativeToolTip": "SecureTextTool\\Form1.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAArwHoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T05:29:30.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tinaj\\source\\repos\\SecureTextTool\\SecureTextTool\\Form1.cs",
+              "RelativeDocumentMoniker": "SecureTextTool\\Form1.cs",
+              "ToolTip": "C:\\Users\\tinaj\\source\\repos\\SecureTextTool\\SecureTextTool\\Form1.cs [Design]",
+              "RelativeToolTip": "SecureTextTool\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T05:30:04.389Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

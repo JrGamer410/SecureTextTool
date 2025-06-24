@@ -1,0 +1,17 @@
+C:\Users\tinaj\source\repos\SecureTextTool\SecureTextTool\bin\Debug\net8.0-windows\SecureTextTool.exe
+C:\Users\tinaj\source\repos\SecureTextTool\SecureTextTool\bin\Debug\net8.0-windows\SecureTextTool.deps.json
+C:\Users\tinaj\source\repos\SecureTextTool\SecureTextTool\bin\Debug\net8.0-windows\SecureTextTool.runtimeconfig.json
+C:\Users\tinaj\source\repos\SecureTextTool\SecureTextTool\bin\Debug\net8.0-windows\SecureTextTool.dll
+C:\Users\tinaj\source\repos\SecureTextTool\SecureTextTool\bin\Debug\net8.0-windows\SecureTextTool.pdb
+C:\Users\tinaj\source\repos\SecureTextTool\SecureTextTool\obj\Debug\net8.0-windows\SecureTextTool.Form1.resources
+C:\Users\tinaj\source\repos\SecureTextTool\SecureTextTool\obj\Debug\net8.0-windows\SecureTextTool.csproj.GenerateResource.cache
+C:\Users\tinaj\source\repos\SecureTextTool\SecureTextTool\obj\Debug\net8.0-windows\SecureTextTool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tinaj\source\repos\SecureTextTool\SecureTextTool\obj\Debug\net8.0-windows\SecureTextTool.AssemblyInfoInputs.cache
+C:\Users\tinaj\source\repos\SecureTextTool\SecureTextTool\obj\Debug\net8.0-windows\SecureTextTool.AssemblyInfo.cs
+C:\Users\tinaj\source\repos\SecureTextTool\SecureTextTool\obj\Debug\net8.0-windows\SecureTextTool.csproj.CoreCompileInputs.cache
+C:\Users\tinaj\source\repos\SecureTextTool\SecureTextTool\obj\Debug\net8.0-windows\SecureTextTool.dll
+C:\Users\tinaj\source\repos\SecureTextTool\SecureTextTool\obj\Debug\net8.0-windows\refint\SecureTextTool.dll
+C:\Users\tinaj\source\repos\SecureTextTool\SecureTextTool\obj\Debug\net8.0-windows\SecureTextTool.pdb
+C:\Users\tinaj\source\repos\SecureTextTool\SecureTextTool\obj\Debug\net8.0-windows\SecureTextTool.genruntimeconfig.cache
+C:\Users\tinaj\source\repos\SecureTextTool\SecureTextTool\obj\Debug\net8.0-windows\ref\SecureTextTool.dll
+C:\Users\tinaj\source\repos\SecureTextTool\SecureTextTool\obj\Debug\net8.0-windows\SecureTextTool.AddDialog.resources
